@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mp2j/BDt4C3DWFCJc8Ttf75BXmnG7di+xSMPJ0GMlocSSvf9qtsSkrzBxrIOSO8/Ib+fw9bD0DH/AeKvdLybng==",
+  "dgSpecHash": "QLnirgt302mlv+264Ih0B5zRS9EIUZ+feFYITMhLVzI3zWOUGj4txv0GSIsBbH3Hfe2STrv8Ge6vluURlRA4nA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Elizabeth\\Documents\\MNJ Internship\\formMNJ\\form_MNJ\\form_MNJ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Elizabeth\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Elizabeth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Elizabeth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Elizabeth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,16 +1,24 @@
-using Microsoft.AspNetCore.Mvc
+using Microsoft.AspNetCore.Mvc;
 using System.Text.Encodings.Web;
 namespace form_MNJ.Controllers;
 
 public class Home:Controller
 {
     //peticion GET  /home
-    public string Index(){
-        return "This is my default action"
+    public IActionResult Index()
+    {
+        return View();
     }
+    /*public string Index(string name, int ID=1){
+        return HtmlEncoder.Default.Encode($"Hello {name} ID:{ID}")
+    }*/
     //peticion GET /home/form
-    public string Form(){
-        return "This is the form action method"
+    public IActionResult Form(string name){
+        ViewData["Message"]="Welcome "+name +", please fill up your candidate data 💼" ;
+        return View();
+    }
+    public IActionResult Privacy(){
+        return View();
     }
 
 }

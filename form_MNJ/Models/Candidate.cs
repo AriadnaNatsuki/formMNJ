@@ -1,8 +1,9 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace form_MNJ.Models;
 
-public class Candidate
+/*public class Candidate
 {
     public int Id { get; set; }
     public string? Title { get; set; }
@@ -18,4 +19,4 @@ public class Candidate
     public string? Email { get; set; }
     [DataType(DataType.EmailAddress)]
 
-}
+}*/
