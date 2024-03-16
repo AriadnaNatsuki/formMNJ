@@ -1,0 +1,7 @@
+C:\Users\Elizabeth\Documents\MNJ Internship\formMNJ\form_MNJ\obj\Debug\net7.0\form_MNJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Documents\MNJ Internship\formMNJ\form_MNJ\obj\Debug\net7.0\form_MNJ.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Documents\MNJ Internship\formMNJ\form_MNJ\obj\Debug\net7.0\form_MNJ.AssemblyInfo.cs
+C:\Users\Elizabeth\Documents\MNJ Internship\formMNJ\form_MNJ\obj\Debug\net7.0\form_MNJ.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Documents\MNJ Internship\formMNJ\form_MNJ\obj\Debug\net7.0\form_MNJ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Elizabeth\Documents\MNJ Internship\formMNJ\form_MNJ\obj\Debug\net7.0\form_MNJ.RazorAssemblyInfo.cache
+C:\Users\Elizabeth\Documents\MNJ Internship\formMNJ\form_MNJ\obj\Debug\net7.0\form_MNJ.RazorAssemblyInfo.cs

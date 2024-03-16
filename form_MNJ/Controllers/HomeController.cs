@@ -22,9 +22,9 @@ public class HomeController : Controller
     {
         return View();
     }
-    public async System.Threading.Tasks.Task<IActionResult0>Form(string Candidate){
+   /* public async System.Threading.Tasks.Task<IActionResult0>Form(string Candidate){
         DataCandidate=new Candidate()
-    }
+    }*/
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
