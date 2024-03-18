@@ -6,6 +6,7 @@ namespace form_MNJ.Models;
 /*public class Candidate
 {
     public int Id { get; set; }
+     public Guid Id { get; set; }
     public string? Title { get; set; }
     [DataType(DataType.Date)]
     public DateTime ReleaseDate { get; set; }
@@ -18,5 +19,10 @@ namespace form_MNJ.Models;
     [Required][MaxLength(100)]public int Phone { get; set; }
     public string? Email { get; set; }
     [DataType(DataType.EmailAddress)]
+    public Sex sex {get;set}
 
+}
+public enum Sex{
+    female,
+    male
 }*/

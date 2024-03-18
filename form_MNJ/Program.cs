@@ -1,3 +1,4 @@
+//using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -32,3 +33,8 @@ app.MapControllerRoute(
     name: "Form",
     pattern: "{controller=Home}/{action=Form}/{id?}");
 app.Run();
+//Data Base Context
+var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<MvcMovieContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("form_MNJContext")));
